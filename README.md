@@ -4,8 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kimch0612&theme=graywhite&locale=ko&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kimch0612)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=White"/> <img src="https://img.shields.io/badge/-FFFF00?style=flat-square&logo=c&logoColor=White"/> 
 
 ### 저는 말이죠..
