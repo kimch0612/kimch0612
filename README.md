@@ -1,5 +1,7 @@
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimch0612)](https://solved.ac/profile/kimch0612)
 
+<a href="https://opgc.me/#/users/kimch0612" target="_blank"><img src="https://api.opgc.me/githubs/users/kimch0612/tag/?theme=basic" /></a>
+
 <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=White"/> <img src="https://img.shields.io/badge/-FFFF00?style=flat-square&logo=c&logoColor=White"/> 
 
 ### 저는 말이죠..
