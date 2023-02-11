@@ -13,6 +13,7 @@
 - 여기 있는 Repository 대부분이 비공개라 볼거리는 없을거에요. 그래도 찾아와주셔서 감사합니다.
 
 ### 코딩하면서 사용하는 음향 장비
+- Sony WALKMAN NW-ZX507
 - Sony WALKMAN NW-ZX300 with Walkman One CFW
 - Fiio Q3 THX Balanced DAC
 - Sony XBA-Z5 Balanced Armature Hi-Res Audio Stereo Ear Receiver
