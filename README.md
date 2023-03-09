@@ -15,7 +15,6 @@
 ### 코딩하면서 사용하는 음향 장비
 - Sony WALKMAN NW-ZX507
 - Sony WALKMAN NW-ZX300 with Walkman One CFW
-- Fiio Q3 THX Balanced DAC
 - Sony XBA-Z5 Balanced Armature Hi-Res Audio Stereo Ear Receiver
 - Lucid Ears New Diamante(fine silver) 8-Core Custom Cable 2.5∅ Plug
 - ddHiFi DJ44AG Headphone Conversion Adapter (2.5∅ to 4.4∅)
