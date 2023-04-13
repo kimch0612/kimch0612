@@ -9,5 +9,8 @@
 ### 코딩하면서 사용하는 음향 장비
 - Astell&Kern A&futura SE200
 - Sony XBA-Z5 Balanced Armature Hi-Res Audio Stereo Ear Receiver
-- Lucid Ears New Diamante(fine silver) 8-Core Custom Cable 2.5∅ Plug
+- TRN BA15
+- SeeAudio Yume II 1DD + 2BA Hybrid In Ear Earphones
+- Lucid Ears New Diamante(fine silver) 8-Core Custom Cable with 2.5∅ Plug
+- Lucid Ears AIR Hybrid 5NOCC Anaerobic Silver plated copper wire + Pure copper Custom Cable with 3.5∅ Plug
 - ddHiFi DJ44AG Headphone Conversion Adapter (2.5∅ to 4.4∅)
