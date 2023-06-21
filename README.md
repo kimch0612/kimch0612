@@ -1,5 +1,7 @@
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimch0612)](https://solved.ac/profile/kimch0612)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kimch0612&theme=tokyonight_duo)](https://github.com/kimch0612)
+
 ### 저는 말이죠..
 - 현재 남서울대학교 컴퓨터소프트웨어학과에 다니고 있어요. (2020.03. ~ )
 - 대한민국 공군 병821기 전력설비특기(55310) 공병 행정병으로 복무했어요. (2020.12. ~ 2022.09.)
