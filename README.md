@@ -2,8 +2,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kimch0612&theme=tokyonight_duo)](https://github.com/kimch0612)
 
-[![changhwa's 42 stats](https://badge42.vercel.app/api/v2/clk9o0ncz002508l49i66v0zo/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
 ### 저는 말이죠..
 - 현재 남서울대학교 컴퓨터소프트웨어학과에 다니고 있어요. (2020.03. ~ )
 - 대한민국 공군 병821기 전력설비특기(55310) 공병 행정병으로 복무했어요. (2020.12. ~ 2022.09.)
