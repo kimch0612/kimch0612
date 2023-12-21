@@ -14,8 +14,6 @@
 - Lucid Ears AIR Hybrid 5NOCC Anaerobic Silver plated copper wire + Pure copper Custom Cable with 3.5∅ Plug
 - ddHiFi DJ44AG Headphone Conversion Adapter (2.5∅ to 4.4∅)
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimch0612)](https://solved.ac/profile/kimch0612)
-
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimch0612&theme=dark)
 
 [![kimch0612's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimch0612&count_private=true&show_icons=true&theme=vue)](https://github.com/kimch0612)
