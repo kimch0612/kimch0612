@@ -25,7 +25,7 @@
 | 22.12.30 - now() | Wa API | 오픈 소스 기여자 | [Repo](https://github.com/yymin1022/Wa_API) | Logistics 모듈 개발 |
 | 23.02.14 - 23.02.24 | React 웹 개발 스터디 | 5인 스터디 **스터디원** | [Repo](https://github.com/kimch0612/React_JS-Study/tree/master) | 중앙대학교 |
 | 23.05.17 - 23.06.05 | C++ Qt 기반 타자 연습 프로그램 | **팀장** 및 **메인 개발** | [Repo](https://github.com/kimch0612/OOP1_Project) | 2-1학기 객지프1 팀 프로젝트 |
-| 23.08.30 - | C++ Qt 기반 Yathzee Dice 게임 | **팀장** 및 **메인 개발** | [Repo](https://github.com/kimch0612/OOP2_Project) |2-2학기 객지프2 팀 프로젝트 |
+| 23.08.30 - 23.12.06 | C++ Qt 기반 Yathzee Dice 게임 | **팀장** 및 **메인 개발** | [Repo](https://github.com/kimch0612/OOP2_Project) |2-2학기 객지프2 팀 프로젝트 |
 | 24.08.11 - 25.05.27 | 대학생을 위한 웹 기반 Project Management System | **팀장** 및 **백엔드, API, 온-프레미스 서버 개발** | [Github Organization](https://github.com/CodeCraft-NSU) | 졸업작품, 4인 팀 프로젝트 |
 
 ### 1인 개발 프로젝트
